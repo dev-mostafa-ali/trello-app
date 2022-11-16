@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mostafa-Ali-A/Trello-App.git/static/css/main.9bd7a35e.css",
+    "main.js": "/Mostafa-Ali-A/Trello-App.git/static/js/main.0e232471.js",
+    "static/js/988.5a8610be.chunk.js": "/Mostafa-Ali-A/Trello-App.git/static/js/988.5a8610be.chunk.js",
+    "index.html": "/Mostafa-Ali-A/Trello-App.git/index.html",
+    "main.9bd7a35e.css.map": "/Mostafa-Ali-A/Trello-App.git/static/css/main.9bd7a35e.css.map",
+    "main.0e232471.js.map": "/Mostafa-Ali-A/Trello-App.git/static/js/main.0e232471.js.map",
+    "988.5a8610be.chunk.js.map": "/Mostafa-Ali-A/Trello-App.git/static/js/988.5a8610be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd7a35e.css",
+    "static/js/main.0e232471.js"
+  ]
+}
