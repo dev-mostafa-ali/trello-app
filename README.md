@@ -1,3 +1,3 @@
 # oops...
 
-This project is Private but can Review it's Code In an Interview
+This project's Code is Private but can Review it's Code in an Interview
