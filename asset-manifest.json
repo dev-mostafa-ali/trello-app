@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Trello-App/static/css/main.cef9cf1b.css",
-    "main.js": "/Trello-App/static/js/main.2d6e2b82.js",
-    "static/media/Photos.webp": "/Trello-App/static/media/Photos.cfc925c28d934045147e.webp",
+    "main.css": "/Trello-App/static/css/main.9566433b.css",
+    "main.js": "/Trello-App/static/js/main.0121b76c.js",
+    "static/media/Photos.webp": "/Trello-App/static/media/Photos.a8a8058ae616e573c283.webp",
     "static/media/Colors.webp": "/Trello-App/static/media/Colors.d17a3c198c02ae3d649e.webp",
     "index.html": "/Trello-App/index.html",
-    "main.cef9cf1b.css.map": "/Trello-App/static/css/main.cef9cf1b.css.map",
-    "main.2d6e2b82.js.map": "/Trello-App/static/js/main.2d6e2b82.js.map"
+    "main.9566433b.css.map": "/Trello-App/static/css/main.9566433b.css.map",
+    "main.0121b76c.js.map": "/Trello-App/static/js/main.0121b76c.js.map"
   },
   "entrypoints": [
-    "static/css/main.cef9cf1b.css",
-    "static/js/main.2d6e2b82.js"
+    "static/css/main.9566433b.css",
+    "static/js/main.0121b76c.js"
   ]
 }
