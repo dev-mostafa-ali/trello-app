@@ -4,8 +4,9 @@
 <p align='center'>This project's Code is Private but can Review it's Code in an Interview</p>
 
 <h2 align='center'>PageSpeed Insights Review</h2>
-<img alt='Trello App' src='https://github.com/Mostafa-Ali-A/Trello-App/assets/72570901/eea46aba-f994-43d6-b1f8-78556affee89'></img>
+<img alt='Trello App' src='https://github.com/Mostafa-Ali-A/Trello-App/assets/72570901/0811ffae-ddbc-40d0-a2d3-9ca47cda20d7'></img>
 <h2>
+	
   <p align='center'>PageSpeed Insights Trello App 
 <a href='https://pagespeed.web.dev/analysis/https-mostafa-ali-a-github-io-Trello-App/oh1voqvdj7?form_factor=mobile'>Live Link!</a>
     </p>
@@ -49,6 +50,9 @@
   <h3>React Beautiful DND</h3>
    </li>
    <li>
+  <h3>React Lazy Load Image Component</h3>
+   </li>
+   <li>
   <h3>Axios</h3>
    </li>
    <li>
@@ -79,6 +83,7 @@
 </ol>
 <h2>3-The Background Color & Photos. Note: '(Not On The Official Website)'</h2>
 <ol>
+<li>When Opening the SideBar Pay Attention to the Lazy Loading of The Images</li>
 <li>You Can Choose Your Background Color Or Linear Gradient Or Photo And Will Be Saved To Your Local Browser</li>
 <li>The Source Code For Colors/Photos And All Buttons Will Be Saved To Your Local Browser Too And All Will Work On Every Page Load And Any Browser Tab Or Window</li>
 <li>If You Get Back To Your Background You Will See A 1Px Border With A Random Color Will Change On Every Page Reload For Colors If You Choose A Color Or Photos If You Choose A Photo</li>
