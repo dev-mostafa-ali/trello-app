@@ -1,6 +1,6 @@
 <h1 align='center'> Oops...🤦</h1>
   
-<p align='center'>This project's Code is Private but can Review it's Code in an Interview</p>
+<p align='center'>The Code For This Project Is Private, But It Can Be Reviewed During An Interview</p>
 
 <h2 align='center'>PageSpeed Insights Review</h2>
 <img alt='Trello App' src='https://github.com/dev-mostafa-ali/trello-app/assets/72570901/0e0158b5-823b-46c4-b403-05a1c2145d2d'></img>
@@ -37,14 +37,14 @@
   <h3>React.js</h3>
    </li>
    </li>
-	   <li>
+   <li>
   <h3>Context Api</h3>
    </li>
    <li>
   <h3>Typescript</h3>
    </li>
    <li>
-  <h3>JavaScript</h3>
+  <h3>Javascript</h3>
    </li>
    <li>
   <h3>jQuery</h3>
