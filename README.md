@@ -1,4 +1,3 @@
-
 <h1 align='center'> Oops...🤦</h1>
   
 <p align='center'>This project's Code is Private but can Review it's Code in an Interview</p>
@@ -7,8 +6,14 @@
 <img alt='Trello App' src='https://github.com/Mostafa-Ali-A/Trello-App/assets/72570901/0e0158b5-823b-46c4-b403-05a1c2145d2d'></img>
 <h2>
 	
-  <p align='center'>PageSpeed Insights Trello App 
-<a href='https://pagespeed.web.dev/analysis/https-mostafa-ali-a-github-io-Trello-App/v1xi9czke6?form_factor=mobile'>Live Link!</a>
+  <p align='center'>PageSpeed Insights 
+<a href='https://pagespeed.web.dev/'>Link!</a>
+    </p>
+</h2>
+<h2>
+	
+  <p align='center'>Trello App 
+<a href='https://dev-mostafa-ali.github.io/trello-app/'>Live URL!</a>
     </p>
 </h2>
 <h1>
@@ -30,6 +35,13 @@
   <ul>
     <li>
   <h3>React.js</h3>
+   </li>
+   </li>
+	   <li>
+  <h3>Context Api</h3>
+   </li>
+   <li>
+  <h3>Typescript</h3>
    </li>
    <li>
   <h3>JavaScript</h3>
@@ -66,6 +78,7 @@
 <ol>
 <li>Keep Input Width Auto While Typing With Text Ellipsis</li>
 <li>Try To Hover Over The Trello Logo</li>
+<li>Try The Button Clicking Animation If Invoking A Function</li>
 <li>You Can't Save Empty Input/Textarea, But You can Save By Pressing Enter Key, And Cancel By Pressing Esc Key, And The Input/Textarea Will Return To Its Default State If Editing, Or Empty If Adding New Or By Pressing Esc Key Too</li>
 <li>Edit Page Title, List Title, And Cards Add New Cards And New Lists And Delete Cards And Lists</li>
 <li>Drag And Drop Any List, And Any Card</li>
@@ -90,7 +103,7 @@
 <li>The Source Code For Colors/Photos And All Buttons Will Be Saved To Your Local Browser, And Everything Will Work On Every Page Load, And In Any Browser Tab Or Window</li>
 <li>If You Return To Your Background, You Will See A 1Px Border With A Random Color That Changes On Every Page Reload For Colors If You Choose A Color, Or Photos If You Choose A Photo</li>
 <li>Default Random Background Are Colors, Linear Gradients, And Photos. You Can Exclude One Or Two Of Them Only</li>
-<li>You Can Use The Buttons Like The Next Background Will Pick A Random Background And Save It To Your Browser. You Can Use It With All Timer Buttons Without Stopping Them For Your Convenience, If the Background is't Suitable For You</li>
+<li>You Can Use The Buttons Like The Next Background Will Pick A Random Background And Save It To Your Browser. You Can Use It With All Timer Buttons Without Stopping Them For Your Convenience, If the Background isn't Suitable For You</li>
 <li>On Every Page Load, A New Background Will Be Chosen On Every Page Load</li>
 <li>Pressing The Timer Buttons Will Also Change The Background At Set Intervals On Every Chosen Interval</li>
 <li>Reset Will Reset All To First Page Load, Tab, Or Window Including First Three Buttons, And Dark, And Light Mode to System Default Mode</li>
@@ -108,4 +121,3 @@
 <li>A Title For Each Button To Display Usage Instructions Upon Hovering Over Them For One Second</li>
 <li>Sync Between Tabs And Browser Windows</li>
 </ol>
-
